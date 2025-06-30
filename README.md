@@ -1,4 +1,4 @@
-# 🛰️ Drought Stress: Recommendations at Crop Scale with GIS
+# 🛰️ Drought assessment using earth observation and mechanistic crop modelling
 
 > **3D Dynamic Systems Modeling** | Engineering approach to complex biological systems through advanced computational modeling and spatial analysis
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🌾 Applications
+## 🌾 Drought adaptation strategies through optimal sowing date recommendations
 ![Target Recomendations](media/4.png)
 - **Agricultural drought monitoring** using satellite data
 - **Landscape-scale vulnerability** assessment  
