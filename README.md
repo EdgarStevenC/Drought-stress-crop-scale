@@ -1,6 +1,6 @@
 # 🛰️ Drought assessment using earth observation and mechanistic crop modelling
 
-> **3D Dynamic Systems Modeling** | Engineering approach to complex biological systems through advanced computational modeling and spatial analysis
+> **3D Dynamic Systems Modeling** | Engineering approach to computational modeling and spatial analysis
 
 ![Water Flow Distribution](media/1.gif)
 
