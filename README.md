@@ -1,4 +1,6 @@
 # 🛰️ Drought assessment using earth observation and mechanistic crop modelling
+---
+*MATLAB toolbox implements a 3D physics-based simulation for surface water runoff analysis, designed to support the Runoff Potential* https://fr.mathworks.com/matlabcentral/fileexchange/181258-the-runoff-potential-index-upland-lowland-differentiation
 
 > **3D Dynamic Systems Modeling** | Engineering approach to computational modeling and spatial analysis
 
