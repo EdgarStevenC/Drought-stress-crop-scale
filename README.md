@@ -21,7 +21,7 @@
 
 ### **Crop Yield at regional scale with CERES-Rice Model** 
 
-![Crop Yield with crop modelling](media/3.gif)
+![Crop Yield with crop modelling](media/3.png)
 *Using remote sensing data and crop modelling to identify crop production.*
 
 ---
@@ -59,6 +59,43 @@
 
 ---
 
-*GIS-based drought research in progress*
+## 🚀 Installation & Usage
+
+### Requirements
+- **MATLAB R2020b or later**
+- **Mapping Toolbox** (for terrain analysis)
+- **Statistics and Machine Learning Toolbox** (for data analysis)
+
+### Quick Start matlab
+% 1. Clone repository
+git clone https://github.com/EdgarStevenC/Drought-stress-crop-scale
+cd Drought-stress-crop-scale
+
+% 2. Open MATLAB and navigate to repository folder
+cd('path/to/Drought-stress-crop-scale')
+
+% 3. Run main simulation
+cd('code')
+main
+
+% 4. Check output frames
+% Results will be saved in 'frames_darcy' folder
+
+---
+### Core Functions
+- **`initializeTerrain()`** - Creates 3D terrain grid and calculates RPI
+- **`initializeWater()`** - Places initial water droplets on terrain
+- **`applyGravityAndLateralDiffusion()`** - Physics engine for water movement
+- **`visualizeWaterSimple()`** - Real-time water flow visualization
+
+### Example Output
+- **3D water flow animations** (GIF format)
+- **Runoff index maps** showing terrain-based water redistribution
+- **Frame-by-frame analysis** for detailed water movement tracking
+
+## 📊 Associated Data
+- **Mendeley Data**: [DOI: 10.17632/fwp748vfkx.1](https://doi.org/10.17632/fwp748vfkx.1)
+
+---
 
 Edgar S. Correa
