@@ -76,7 +76,8 @@ cd('path/to/Drought-stress-crop-scale')
 
 % 3. Run main simulation
 cd('code')
-main
+- **Water simulation** =  main.m
+- **RPI analysis** = main_rpi_analysis.m
 
 % 4. Check output frames
 % Results will be saved in 'frames_darcy' folder
